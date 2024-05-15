@@ -1,11 +1,4 @@
 ---
-title: "biharikinga.github.io"
+title: "Kinga Bihari"
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi! My name is Kinga (pronounced King-uh) and this is my personal website. It's a work in progress but I'm excited to share some of the cool stuff I've been up to lately. Thanks for stopping by!  
