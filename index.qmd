@@ -1,4 +1,17 @@
 ---
 title: "Kinga Bihari"
+image: grad_pic.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/kinga-bihari-512911228
+    - text: GitHub
+      href: https://github.com/biharikinga
+    - text: Email
+      href: mailto::biharikinga@gmail.com
 ---
 Hi! My name is Kinga (pronounced King-uh) and this is my personal website. It's a work in progress but I'm excited to share some of the cool stuff I've been up to lately. Thanks for stopping by!  
