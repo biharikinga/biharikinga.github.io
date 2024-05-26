@@ -10,6 +10,8 @@ website:
         text: Home
       - about.qmd
       - research.qmd
+      - other_projects.qmd
+      - sunset_walks.qmd
 
 format:
   html:
