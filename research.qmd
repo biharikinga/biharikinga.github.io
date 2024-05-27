@@ -1,3 +1,11 @@
 ---
 title: "Research"
 ---
+
+While at UCSB, I've been lucky to have taken part in the amazing research done here. My most notable projects have been:
+
+1. Analyzing Plant Tissue Chemistry of Salicornia pacifica in Restored and Established Wetlands
+
+2. Evaluating the effect of food-based lure and predator scent on detectability of mainland rodents with implications for biosecurity on the California Channel Islands 
+
+3. Assessing agrivoltaic suitability across agricultural land in California through geospatial analysis
