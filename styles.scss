@@ -1,0 +1,21 @@
+/*-- scss:defaults --*/
+
+// Colors 
+$periwinkle: #9ebcda;
+$green: #99d8c9;
+$magenta: #c994c7;
+$navyblue: #253494;
+$blue: #1d91c0;
+
+// Base document colors
+$navbar-bg: $magenta; // navbar
+$navbar-fg: $blue; // navbar foreground elements
+$navbar-hl: $periwinkle; // highlight color when hovering over navbar links
+$body-bg: $periwinkle; // page background 
+$body-color: $navyblue; // page text 
+$link-color: $blue; // hyperlinks 
+$text-color: $blue;
+
+// Inline code
+$code-bg: $green; // inline code background color
+$code-color: $magenta; // inline code text color

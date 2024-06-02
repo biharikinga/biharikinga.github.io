@@ -1,13 +1,15 @@
 ---
 title: "About"
-
 ---
 
-I grew up in the east Bay Area, but both my parents were born in Hungary and I was raised maintaining my Hungarian identity, which I still proudly foster today. I'm graduating from University of California, Santa Barbara with a B.A. in Environmental Studies in June 2024. My interests within the field lie in climate change mitigation and habitat restoration, which is in itself an important part of fighting climate change. Post-graduation, I'll be starting a Data Scientist position in the Climate Science and Impacts branch in the Climate Change Division of the Environmental Protection Agency in Washington, D.C. I'm excited to use everything I've learned at UCSB in this necxt chapter of my life!
- 
----  
+I grew up in the east Bay Area, but both my parents were born in Hungary and I was raised maintaining my Hungarian identity, which I still proudly foster today. I'm graduating from University of California, Santa Barbara with a B.A. in Environmental Studies in June 2024. My interests within the field lie in climate change mitigation and habitat restoration, which is in itself an important part of fighting climate change. Post-graduation, I'll be starting a Data Scientist position in the Climate Science and Impacts branch in the Climate Change Division of the Environmental Protection Agency in Washington, D.C. I'm excited to use everything I've learned at UCSB in this next chapter of my life!
+
+------------------------------------------------------------------------
 
 Outside of work, I like cooking and baking, and I'm known to make a mean banana bread. I also love all things outdoors, including the beautiful beaches Santa Barbara has to offer, biking, hiking and camping. My favorite camping spot has been Santa Cruz Island, the biggest of the California Channel Islands. I'm a big fan of reality tv to relax and laugh, as well as attending comedy shows.
 
----
-Resume: 
+------------------------------------------------------------------------
+
+Resume:
+
+[resume](file:///Users/kingabihari/Desktop/ES_193DS/biharikinga.github.io/resume.pdf)
