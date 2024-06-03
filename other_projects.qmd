@@ -4,12 +4,16 @@ title: "Other projects"
 
 Here are some other notable projects I've undertaken as part of my coursework at UCSB:
 
-1. A case study of California groundwater level data in the past 10 years
+1.  [A case study of California groundwater level data in the past 10 years](water_data.html)/
+As part of my first ever data science class, I did my final project on groundwater levels in California, and visualized a couple important plots. 
 
-2. Exploring effectiveness of prescribed grazing on restoring native grasslands in San Marcos Foothills
-Prescribed grazing for grassland resiliency
+2.  [Exploring effectiveness of prescribed grazing on restoring native grasslands in San Marcos Foothills](https://storymaps.arcgis.com/stories/1adbab6e8a054657adeee0bb2c8874f3)\
+As part of my first ever GIS class, my group created an ArcGIS Pro storymap that explores the effectiveness of prescribed grazing on native grasslands through a geospatial lense.
 
-3. How methane emissions from mangrives matter for coastal blue carbon accounting 
+3.  [How methane emissions from mangroves matter for coastal blue carbon accounting](mangroves_emissions.pdf)\
+During a climate mitigation strategy class, my final project synthesized research on mangrove emissions and how they matter for climate mitigation. 
 
-4. Környezetvédelemmel kapcsolatas szemlélmódok feltérképezése Magyarországon élő és külföldi magyaroknál (Evaluating environmental attitudes between native Hungarians and Hungarianas living abroad)
-I completed this research project while studying abroad at the Balassi Institute in Budapest, Hungary.
+4.  Környezetvédelemmel kapcsolatas szemlélmódok feltérképezése Magyarországon élő és külföldi magyaroknál\
+    In English: [Evaluating environmental attitudes between native Hungarians and Hungarianas living abroad](comparing_envtl_attitudes.pdf)\
+    *I completed this research project while studying abroad at the Balassi Institute in Budapest, Hungary. It's written in all in Hungarian, except for a short reflection/summary in English on page 23.*\
+    This project is a culmination of a year-long research project I conducted to tie together my dual Hungarian-American identity and my passion for the environment.
