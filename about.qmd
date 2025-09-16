@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-I grew up in the east Bay Area, but both my parents were born in Hungary and I was raised maintaining my Hungarian identity, which I still proudly foster today. I'm graduating from University of California, Santa Barbara with a B.A. in Environmental Studies in June 2024. My interests within the field lie in climate change mitigation and habitat restoration, which is in itself an important part of fighting climate change. Post-graduation, I'll be starting a Data Scientist position in the Climate Science and Impacts branch in the Climate Change Division of the Environmental Protection Agency in Washington, D.C. I'm excited to use everything I've learned at UCSB in this next chapter of my life!
+I grew up in the east Bay Area, but both my parents were born in Hungary and I was raised maintaining my Hungarian identity, which I still proudly foster today. I graduated from University of California, Santa Barbara with a B.A. in Environmental Studies in June 2024. My research interests lie in ecosystem-scale carbon dynamics, especially in regard to soil carbon stocks and wetland ecosystems. I currently work as a data scientist in the Climate Change Division of the U.S. Environmental Protection Agency in Washington, D.C. As part of my job I've become acquainted with the world of climate models and their limitations when it comes to modeling carbon feedbacks. I would love to contribute to the body of research informing more accurate climate models through my own field research.
 
 ------------------------------------------------------------------------
 
@@ -12,4 +12,4 @@ Outside of work, I like cooking and baking, and I'm known to make a mean banana 
 
 Resume:
 
-[Kinga's resume](resume.pdf)
+[Kinga's resume](resume.pdf) replace this!

@@ -4,7 +4,7 @@ title: "Other projects"
 
 Here are some other notable projects I've undertaken as part of my coursework at UCSB:
 
-1.  [A case study of California groundwater level data in the past 10 years](water_data.html)/
+1.  [A case study of California groundwater level data in the past 10 years](water_data.html)\
 As part of my first ever data science class, I did my final project on groundwater levels in California, and visualized a couple important plots. 
 
 2.  [Exploring effectiveness of prescribed grazing on restoring native grasslands in San Marcos Foothills](https://storymaps.arcgis.com/stories/1adbab6e8a054657adeee0bb2c8874f3)\

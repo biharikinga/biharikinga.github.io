@@ -4,11 +4,12 @@ title: "Research"
 
 While at UCSB, I've been lucky to have taken part in the amazing research done here. My most notable projects have been:
 
-1.  [Analyzing Plant Tissue Chemistry of *Salicornia pacifica* in Restored and Established Wetlands](pickleweed_poster.pdf)\
-    As my senior thesis project, I independently designed and executed a study examining the carbon, nitrogen, and carbon:nitrogen ratios in a common coastal wetland plant, pickleweed. This poster is what I presented at multiple undergraduate research symposia, and I will be submitting the WIP final report to an undergraduate journal.
+1.  [Analyzing plant tissue chemistry of *Salicornia pacifica* in restored and established wetlands](pickleweed_poster.pdf) As my senior thesis project, I independently designed and executed a study examining the carbon, nitrogen, and carbon:nitrogen ratios in a common coastal wetland plant, pickleweed. This [poster](https://escholarship.org/uc/item/9996m8sq) is what I presented at multiple undergraduate research symposia, and I will be submitting the WIP final report to an undergraduate journal.
 
 2.  [Evaluating the effect of food-based lure and predator scent on detectability of mainland rodents with implications for biosecurity on the California Channel Islands](tnc_biosecurity_camera_trapping.pdf)\
     During a fellowship I completed with the UCSB Bren School and The Nature Conservancy, I executed a field-based study examining the detection probability of potentially invasive rodents to the Channel Islands with different types of lures. We submitted this draft for publishing and it is currently under revisions before it (hopefully) gets published in the Western North American Naturalist.
 
-3.  [Assessing agrivoltaic suitability across agricultural land in California through geospatial analysis](https://docs.google.com/document/d/1wtLyWYVDg0uqrmkM9aX4ZZOTJwq6Ky0imOGf_CCcBKU/edit?usp=sharing)\
-    As part of a scholarship I won for environmental research, I conducted an independent research project exploring the suitability of dual land-use colocation of solar panels and agricultural crop production in California. I will also be submitting WIP report to an undergraduate journal. 
+3.  [Assessing agrivoltaic suitability across agricultural land in California through geospatial analysis](https://escholarship.org/uc/item/6j4070q4)\
+    As part of a scholarship I won for environmental research, I conducted an independent research project exploring the suitability of dual land-use colocation of solar panels and agricultural crop production in California. I will also be submitting WIP report to an undergraduate journal.
+
+    include fredi, include
