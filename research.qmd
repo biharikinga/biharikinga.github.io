@@ -2,15 +2,12 @@
 title: "Research"
 ---
 
-While at UCSB, I've been lucky to have taken part in the amazing research done here. My most notable projects have been:
+While at UCSB, I'm proud to have taken part in the amazing research done here. My most notable projects have been:
 
-1.  [Analyzing plant tissue chemistry of *Salicornia pacifica* in restored and established wetlands](https://escholarship.org/uc/item/9996m8sq)\ 
-    As my senior thesis project, I independently designed and executed a study examining the carbon, nitrogen, and carbon:nitrogen ratios in a common coastal wetland plant, pickleweed. The manuscript was published in UCSB's Undergraduate Research and Creative Activities Journal. I presented this [poster](pickleweed_poster.pdf)\ at multiple undergraduate research symposia at UCSB.
+1.  [Analyzing plant tissue chemistry of *Salicornia pacifica* in restored and established wetlands](https://escholarship.org/uc/item/9996m8sq)  As my senior thesis project, I independently designed and executed a study examining the carbon, nitrogen, and carbon:nitrogen ratios in a common coastal wetland plant, pickleweed. The manuscript was published in UCSB's Undergraduate Research and Creative Activities Journal. I presented this [poster](pickleweed_poster.pdf) at multiple undergraduate research symposia at UCSB. I completed this project with the incredible support of Dr. Jennifer King's [DECOMP lab](https://decomp.geog.ucsb.edu/). 
 
 2.  [Evaluating the effect of food-based lure and predator scent on detectability of mainland rodents with implications for biosecurity on the California Channel Islands](tnc_biosecurity_camera_trapping.pdf)\
     During a fellowship I completed with the UCSB Bren School and The Nature Conservancy, I executed a field-based study examining the detection probability of potentially invasive rodents to the Channel Islands with different types of lures. My co-author Ray did an oral presentation at the California Islands Symposium on our research, and I presented a poster version at multiple symposia held at UCSB. We submitted this draft for publishing and it is currently under revisions before it (hopefully) gets published in the Western North American Naturalist.
 
 3.  [Assessing agrivoltaic suitability across agricultural land in California through geospatial analysis](https://escholarship.org/uc/item/6j4070q4)\
     As part of a scholarship I won for environmental research, I conducted an independent research project exploring the suitability of dual land-use colocation of solar panels and agricultural crop production in California. The manuscript was also published in UCSB's Undergraduate Research and Creative Activities Journal.
-
-    include fredi, include

@@ -2,7 +2,11 @@
 title: "About"
 ---
 
-I grew up in the Bay Area, but both my parents were born in Hungary and I was raised maintaining my Hungarian identity, which I still proudly foster today. I graduated from University of California, Santa Barbara with a B.A. in Environmental Studies in 2024 and plan to go to grad school. My research interests lie in ecosystem-scale carbon dynamics, especially in regard to soil carbon stocks and wetland ecosystems. I currently work as a data scientist in the Climate Change Division of the U.S. Environmental Protection Agency in Washington, D.C. As part of my job I've become acquainted with the world of climate models, and have come to appreciate their complexity and role in climate mitigation, as well as their limitations when it comes to modeling carbon feedbacks. In my future research I would love to contribute to the body of research informing more accurate climate models through my own field work. 
+I grew up in the Bay Area, but both my parents were born in Hungary and I was raised maintaining my Hungarian identity, which I still proudly foster today. I graduated from University of California, Santa Barbara with a B.A. in Environmental Studies in 2024 and plan to go to grad school. I currently work as a data scientist in the Climate Change Division of the U.S. Environmental Protection Agency in Washington, D.C. The primary projects I've contributed to are EPA's [Climate Change Indicators](https://www.epa.gov/climate-indicators) and reduced complexity model [FrEDI](https://www.epa.gov/cira/fredi), which projects future climate change impacts within the U.S. under any custom temperature or emissions pathway.
+
+------------------------------------------------------------------------
+
+My research interests lie in ecosystem-scale carbon dynamics, especially with regard to soil carbon stocks and wetland ecosystems. As part of my job I've become acquainted with the world of climate models, and have come to appreciate their complexity and role in climate mitigation, as well as their limitations when it comes to modeling carbon feedbacks. In my future research I would love to contribute to the body of research informing more accurate climate models through my own field work.
 
 ------------------------------------------------------------------------
 
@@ -10,6 +14,4 @@ Outside of work, I like cooking and baking, and I'm known to make a mean banana 
 
 ------------------------------------------------------------------------
 
-Resume:
-
-[Kinga's resume](resume.pdf) replace this!
+[Kinga's CV](Kinga_CV_2025.pdf)
